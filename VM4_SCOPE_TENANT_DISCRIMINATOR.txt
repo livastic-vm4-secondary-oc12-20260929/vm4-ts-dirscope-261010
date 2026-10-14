@@ -1,0 +1,1 @@
+VM4 isolated static text for commit-SHA tenant scope comparison 2026-10-15. No executable code or secrets.
